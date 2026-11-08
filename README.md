@@ -15,12 +15,14 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascrit" />
 </div>
 
 <h3>Backend</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </div>
 
 <h3>Tool</h3>
