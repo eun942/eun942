@@ -15,7 +15,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascrit" />
+  <img src="https://skillicons.dev/icons?i=javascrite" />
 </div>
 
 <h3>Backend</h3>
